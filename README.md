@@ -12,14 +12,6 @@ A simple and intuitive Body Mass Index (BMI) Calculator app built using Flutter.
 - **Health Guidance**: Provides a message indicating whether your BMI is within a normal range or if further health actions may be necessary.
 - **Responsive UI**: Optimized for iOS, Android, and web(Desktop) devices with a modern, user-friendly interface.
 
-## Screenshots
-
-### Home Screen                |  ### Result Screen
-:-----------------------------:|:-------------------------:
-<img src="https://github.com/user-attachments/assets/ea2ed444-7fd7-4c87-b574-469e4c4bd82a" width="45%"> | <img src="https://github.com/user-attachments/assets/8caef4a8-6c56-4c16-81a3-f30ff0a15dd8" width="45%">
-
-
-
 ## Installation
 
 1. Clone the repository:
