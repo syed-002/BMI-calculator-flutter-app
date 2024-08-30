@@ -1,4 +1,4 @@
-# BMI Calculator
+![Screenshot 2024-08-30 at 3 39 18 PM](https://github.com/user-attachments/assets/9864f892-466b-48e9-b257-e8aff4f8b0b1)# BMI Calculator
 
 A simple and intuitive Body Mass Index (BMI) Calculator app built using Flutter. This app allows users to calculate their BMI based on their height, weight, age, and gender, providing insights into their health status.
 
@@ -8,17 +8,18 @@ A simple and intuitive Body Mass Index (BMI) Calculator app built using Flutter.
 - **Height Slider**: Adjust height using a smooth slider in centimeters.
 - **Weight and Age Input**: Increment and decrement weight and age with easy-to-use buttons.
 - **BMI Calculation**: Instantly calculate your BMI with a tap of the "Calculate" button.
-- **Results Display**: The result screen displays the calculated BMI value along with a health classification (e.g., underweight, normal, overweight, etc.).
+- **Results Display**: The result screen displays the calculated BMI value and a health classification (e.g., underweight, normal, overweight, etc.).
 - **Health Guidance**: Provides a message indicating whether your BMI is within a normal range or if further health actions may be necessary.
-- **Responsive UI**: Optimized for both iOS and Android devices with a modern, user-friendly interface.
+- **Responsive UI**: Optimized for iOS, Android, and web(Desktop) devices with a modern, user-friendly interface.
 
 ## Screenshots
 
 ### Home Screen
-![BMI Calculator Home](./mnt/data/Screenshot%202024-08-30%20at%203.38.57%20PM.png)
+![Screenshot 2024-08-30 at 3 38 57 PM](https://github.com/user-attachments/assets/ea2ed444-7fd7-4c87-b574-469e4c4bd82a)
 
 ### Result Screen
-![BMI Result Screen](./mnt/data/Screenshot%202024-08-30%20at%203.39.18%20PM.png)
+![Screenshot 2024-08-30 at 3 39 18 PM](https://github.com/user-attachments/assets/8caef4a8-6c56-4c16-81a3-f30ff0a15dd8)
+
 
 ## Installation
 
@@ -43,12 +44,12 @@ A simple and intuitive Body Mass Index (BMI) Calculator app built using Flutter.
 2. Adjust your height using the height slider.
 3. Set your weight and age using the increment/decrement buttons.
 4. Press the **Calculate** button to see your BMI result.
-5. View your BMI along with the health classification and recommended health actions.
+5. View your BMI, the health classification, and recommended health actions.
 6. Press **Re-Calculate** to perform another calculation.
 
 ## Requirements
 
 - **Flutter SDK**: v3.0 or higher
 - **Dart SDK**: v2.12 or higher
-- Compatible with **iOS** and **Android**
+- Compatible with **Web**, **iOS** and **Android** 
 
